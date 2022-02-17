@@ -1,5 +1,5 @@
 {
-  "name": "@clipboardhealth/prismix",
+  "name": "ddhorstman-prismix",
   "version": "1.0.0",
   "description": "Create multiple Prisma schema files with shared model relations.",
   "keywords": [
@@ -16,7 +16,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ddhorstman/prismix#readme",
   "repository": "https://github.com/ddhorstman/prismix",
-  "private": true,
+  "private": false,
   "scripts": {
     "prepack": "tsc -b",
     "dev": "tsc-watch",
