@@ -1,6 +1,6 @@
 {
-  "name": "prismix",
-  "version": "1.0.19",
+  "name": "@clipboardhealth/prismix",
+  "version": "1.0.0",
   "description": "Create multiple Prisma schema files with shared model relations.",
   "keywords": [
     "prisma",
@@ -12,11 +12,11 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Jamie Pine",
-  "email": "hello@jamiepine.com",
+  "email": "hello@davidhorstman.com",
   "license": "MIT",
-  "homepage": "https://github.com/jamiepine/prismix#readme",
-  "repository": "https://github.com/jamiepine/prismix",
-  "private": false,
+  "homepage": "https://github.com/ddhorstman/prismix#readme",
+  "repository": "https://github.com/ddhorstman/prismix",
+  "private": true,
   "scripts": {
     "prepack": "tsc -b",
     "dev": "tsc-watch",
